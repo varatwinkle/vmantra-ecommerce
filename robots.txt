@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vmantratechsolution.great-site.net/sitemap.xml
